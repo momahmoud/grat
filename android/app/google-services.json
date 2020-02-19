@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186423028519",
+    "firebase_url": "https://lostpeople-2c7d7.firebaseio.com",
+    "project_id": "lostpeople-2c7d7",
+    "storage_bucket": "lostpeople-2c7d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186423028519:android:8fa16407c8cedf1d1ed702",
+        "android_client_info": {
+          "package_name": "com.example.lostpeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186423028519-a11kikv9u17i46gf5dqct8r40p5iscu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSFij4Y59U0xI1VU1NgZ9C5WoQgOfmORU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186423028519-a11kikv9u17i46gf5dqct8r40p5iscu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
